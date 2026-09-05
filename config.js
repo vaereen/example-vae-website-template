@@ -62,7 +62,7 @@ const LABELS = NICHE === "food"
 
 /* ---------- CURRENCY SETTINGS ---------- */
 const CURRENCY = {
-  symbol: "RM",                          // Currency symbol (RM, $, €, etc.)
+  symbol: "USD",                          // Currency symbol (RM, $, €, etc.)
   locale: "en-US",                       // Locale for formatting (en-MY, en-US, etc.)
   decimals: 2,                           // Decimal places for prices
 };
