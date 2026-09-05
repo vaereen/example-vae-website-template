@@ -17,7 +17,7 @@
  */
 
 /* ---------- THEME SELECTION ---------- */
-const THEME = "cyber"; // Change this to "cyber", "luxe", or "artisan"
+const THEME = "luxe"; // Change this to "cyber", "luxe", or "artisan"
 
 /* ---------- NICHE SELECTION ---------- */
 const NICHE = "services"; // Change this to "services" or "food"
